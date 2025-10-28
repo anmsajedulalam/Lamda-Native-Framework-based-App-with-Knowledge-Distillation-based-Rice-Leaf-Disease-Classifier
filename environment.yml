@@ -1,0 +1,22 @@
+name: mobilenet-v4-gpu
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.8
+  - cudnn
+  - opencv
+  - pillow
+  - numpy
+  - scikit-learn
+  - pip:
+    - torch==2.0.1
+    - torchvision==0.15.2
+    - tensorflow==2.13.0
+    - onnx==1.14.1
+    - onnxruntime-gpu==1.16.0
+    - tf2onnx==1.14.1
+    - torchdistill==1.0.0
