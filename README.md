@@ -1,6 +1,6 @@
 # Lamda-Native-Framework-based-App-with-Knowledge-Distillation-based-Rice-Leaf-Disease-Classifier
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-yellow.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 A complete mobile image classification app built with Lambda Native framework, featuring knowledge distillation and GPU-accelerated training. The app can classify images into 5 custom categories with real-time inference on mobile devices.
 
@@ -349,10 +349,16 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 
 ## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
 
 
 Copyright (c) 2025, A. N. M. Sajedul Alam
+
+## Funding
+
+This project is funded through [NGI Mobifree Fund](https://nlnet.nl/mobifree), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program. Learn more at the [NLnet project page](https://nlnet.nl/project/F-Droid-LambdaNative).
+
+[<img src="https://nlnet.nl/logo/banner.png" alt="NLnet foundation logo" width="20%" />](https://nlnet.nl) &#x20;
 
 
 ## 🙏 Acknowledgments
